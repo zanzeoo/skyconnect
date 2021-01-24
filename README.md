@@ -11,9 +11,9 @@ It's a DIY project that require soldering skills, i canot be responsible if you 
 For EQ5 mount connect the Skyconnect board to the Rj12 connector of the Hand controller ( RS232 link. Set the hand controller to PC direct mode)
 It allows you to control the shutter of a DSLR camera throught the handcontroller (see the EQ5 GOTO manual ) 
 
-You can also replace the hand controller by connecting the board directly into the RJ45 connector of the synscan box, then Use Synscan pro APP or Stellarium
+You can also replace the hand controller by connecting the board directly into the RJ45 connector of the synscan box .Just unplug the hand controller and plug skyconnect instead, then Use Synscan pro APP or Stellarium.
 
-set-up
+SET-UP:
 
 Shutdown temporarely your home WIFI.
 Disable 4G/5G data of your smartphone
@@ -25,7 +25,7 @@ In network Menu :configure the module in UDPserver on port 11880. Save
 In More menu , select Restart ,the module should restart , then reconnect to it . 
 
 To use it with Syncscan pro with your smartphone, in Synscanpro menu, Try to use a timeout serial link between 200 and 400ms
-Tu use is with stellarium , with your smartphone or tablet, start Synscanpro before then start stellarium
+To use it with stellarium , with your smartphone or tablet, start Synscanpro before then start stellarium
 
 If you want to use it in bluetooth just replace to DT-06 WIFI module by a HC-06 BLUETOOTH module . Be aware of the polarity, check the schematic
 
