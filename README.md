@@ -29,7 +29,7 @@ To use it with stellarium , with your smartphone or tablet, start Synscanpro bef
 
 If you want to use it in bluetooth just replace to DT-06 WIFI module by a HC-06 BLUETOOTH module . Be aware of the polarity, check the schematic
 
-If you want to use it with a RS485 link (the wire link could be more than 500 meters long) you need to use a USB to RS485 adapter.
-Use a 2 twisted pairs cable and dont forget to connect GND both side (use the minus pin of the 12v header)
+If you want to use it with a RS485 link (the wire cable could be more than 500 meters long) you need to use a USB to RS485 adapter.
+Use a 2 twisted pairs cable and dont forget to connect GND both side (use the minus pin of the 12v header) and to ensure the position of the switch SW1.
 
 https://octopart.com/bom-tool/n0BOnnqq
