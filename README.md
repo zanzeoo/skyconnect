@@ -31,3 +31,5 @@ If you want to use it in bluetooth just replace to DT-06 WIFI module by a HC-06 
 
 If you want to use it with a RS485 link (the wire link could be more than 500 meters long) you need to use a USB to RS485 adapter.
 Use a 2 twisted paire cable and dont forget to solder GND both side (use the minus pin of the 12v header)
+
+https://octopart.com/bom-tool/n0BOnnqq
