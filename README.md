@@ -6,12 +6,14 @@ Skyconnect is an electronic project that allow you to control Skywatcher telesco
 It also can be used to control the shutter of a DSLR camera.
 
 It has been very well tested on an EQ5 GOTO mount.
-It's a DIY project that require soldering skills, i canot be responsible if you damage your equipments with it. Do it at your own risk
+It's a DIY project that require soldering skills, i can't be responsible if you damage your equipments with it. Do it at your own risk
 
-For EQ5 mount connect the Skyconnect board to the Rj12 connector of the Hand controller ( RS232 link. Set the hand controller to PC direct mode)
-It allows you to control the shutter of a DSLR camera throught the handcontroller (see the EQ5 GOTO manual ) 
+For EQ5 mount connect the Skyconnect board to the Rj12 connector of the Hand controller.
+It allows you to control the shutter of a DSLR camera throught the handcontroller (see the EQ5 GOTO manual). 
+To control your mount from a PC, set the hand controller to PC direct mode
 
-You can also replace the hand controller by connecting the board directly into the RJ45 connector of the synscan box .Just unplug the hand controller and plug skyconnect instead, then Use Synscan pro APP or Stellarium.
+You can also replace the hand controller by connecting the board directly into the RJ45 connector of the synscan box.
+Just unplug the hand controller and plug skyconnect instead, then Use Synscan pro APP, Stellarium or SkySafari
 
 SET-UP:
 
@@ -30,6 +32,6 @@ To use it with stellarium , with your smartphone or tablet, start Synscanpro bef
 If you want to use it in bluetooth just replace to DT-06 WIFI module by a HC-06 BLUETOOTH module . Be aware of the polarity, check the schematic
 
 If you want to use it with a RS485 link (the wire cable could be more than 500 meters long) you need to use a USB to RS485 adapter.
-Use a 2 twisted pairs cable and dont forget to connect GND both side (use the minus pin of the 12v header) and to ensure the position of the switch SW1.
+Use a 2 twisted pairs cable and dont forget to connect GND both side (use the minus pin of the 12v header) and to be sure of the position of the switch SW1.
 
 https://octopart.com/bom-tool/n0BOnnqq
