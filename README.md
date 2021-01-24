@@ -26,12 +26,12 @@ In network Menu :configure the module in UDPserver on port 11880. Save
 
 In More menu , select Restart ,the module should restart , then reconnect to it . 
 
-To use it with Syncscan pro with your smartphone, in Synscanpro menu, Try to use a timeout serial link between 200 and 400ms
-To use it with stellarium , with your smartphone or tablet, start Synscanpro before then start stellarium
+To use it with Syncscan pro APP: In Synscanpro menu, Try a timeout serial link between 200 and 400ms
+To use it with stellarium, with your smartphone or tablet, start Synscanpro before then start stellarium
 
 If you want to use it in bluetooth just replace to DT-06 WIFI module by a HC-06 BLUETOOTH module . Be aware of the polarity, check the schematic
 
-If you want to use it with a RS485 link (the wire cable could be more than 500 meters long) you need to use a USB to RS485 adapter.
-Use a 2 twisted pairs cable and dont forget to connect GND both side (use the minus pin of the 12v header) and to be sure of the position of the switch SW1.
+If you want to use it with a RS485 link (the wire cable could be more than 500 meters long) you will need a USB to RS485 adapter.
+Use a 2 twisted pairs cable and dont forget to connect GND both side (use the minus pin of the 12v header) to be sure about the position of the switch SW1.
 
 https://octopart.com/bom-tool/n0BOnnqq
