@@ -18,11 +18,17 @@ Just unplug the hand controller and plug skyconnect instead, then Use Synscan pr
 SET-UP:
 
 -Shutdown temporarely your home WIFI.
+
 -Disable 4G/5G data of your smartphone
+
 -Enable WIFI , you shoud see DoitWiFi_xxxx.
+
 -Open your Browser at 192.168.4.1 (it's the built in web server)
+
 -In serial menu :baud rate:9600, databits:8, parity: none, stopbits:1, serial split timeout : 200. Click save.
+
 -In network Menu :configure the module in UDPserver on port 11880. Save
+
 -In More menu , select Restart ,the module should restart , then reconnect to it . 
 
 To use it with Syncscan pro APP: In Synscanpro menu, Try a timeout serial link between 200 and 400ms
