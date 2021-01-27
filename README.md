@@ -35,6 +35,8 @@ If you want to use it with a RS485 link (the wire cable could be more than 500 m
 Use a 2 twisted pairs cable and dont forget to connect GND both side (use the minus pin of the 12v header) to be sure about the position of the switch SW1.
 
 BOM: https://octopart.com/bom-tool/n0BOnnqq
+
+
 WIFI module: https://www.amazon.fr/Dt-06-Port-Transmission-Transparente-Compatible-Hc-06-ESP-m2/dp/B07FTDYMX7
 
 
