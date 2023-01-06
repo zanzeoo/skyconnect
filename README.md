@@ -42,7 +42,7 @@ Use a 2 twisted pairs cable and dont forget to connect GND both side (use the mi
 BOM: https://octopart.com/bom-tool/n0BOnnqq
 
 
-WIFI module: https://www.amazon.fr/Dt-06-Port-Transmission-Transparente-Compatible-Hc-06-ESP-m2/dp/B07FTDYMX7
+WIFI module: DT-06 : https://www.amazon.fr/TECNOIOT-Wireless-Serial-TTL-WiFi-Transmission/dp/B07YXDXTVM/ref=sr_1_5?keywords=dt-06+wifi&qid=1672986809&s=electronics&sprefix=Dt-06%2Celectronics%2C64&sr=1-5
 
 
-BT module  : https://www.amazon.fr/SODIAL-Bluetooth-module-esclave-Arduino/dp/B00WYSPMM2/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=hc-06&qid=1611770535&s=electronics&sr=1-5
+BT module  : HC-06 : https://www.amazon.fr/azdelivery-Bluetooth-Transceiver-RS232-TTL-Communication/dp/B0722MD4FY/ref=sr_1_5?__mk_fr_FR=ÅMÅŽÕÑ&crid=10UCQN3PAG7F8&keywords=hc-06+module&qid=1672987061&s=electronics&sprefix=hc-06+module%2Celectronics%2C61&sr=1-5
